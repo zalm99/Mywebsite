@@ -186,7 +186,7 @@ span{
 .text-animation span::before{
     content: "Web Developer";
     color: var(--main-color);
-    animation: words 20s infinite;
+    animation: words 18s infinite;
 }
 .text-animation span::after{
     content:"";
@@ -251,7 +251,7 @@ span{
     }
 }
 .heading{
-    font-size: 8rem;
+    font-size: 10rem;
     text-align: center;
     margin: 5rem 0;
 }
